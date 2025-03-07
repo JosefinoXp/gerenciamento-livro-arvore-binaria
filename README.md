@@ -19,7 +19,7 @@ Este projeto tem como objetivo o gerenciamento de uma biblioteca utilizando uma 
 ## 📁 Estrutura do Projeto
 
 ```
-📂 projeto-biblioteca
+📂 Trabalho
 │-- 📂 src           # Código-fonte principal
 │   │-- arquivo.c       # Manipulação dos livros em binário
 │   │-- arquivo.h      # Implementação das funções
@@ -31,7 +31,8 @@ Este projeto tem como objetivo o gerenciamento de uma biblioteca utilizando uma 
 │   │-- menu.h # Menu do powershell
 │   │-- menu.c    # Implementação do menu
 │   │-- main.c    # Chamada de menu
-│-- README.md        # Este arquivo de documentação
+│-- README.md        # arquivo de documentação
+│-- README_Trabalho2_AED.pdf  # arquivo de documentação
 ```
 
 ## 📌 Como Executar
